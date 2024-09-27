@@ -1,0 +1,8 @@
+Welcome to the Uno Game!
+This is a simple Uno game; normal rules, and all the ordinary cards. However you have the options to choose how much cards you want each player to start off with.                                     Here are some of the rules: -                        -The first player(you) begin with placing  the first card.                                        -Any card that has the same number, same colour and with the exception of wild cards can be placed during the game.                        
+     -If no cards can play(substitute) in any player's deck; then the game will give out a card to the player, if that cannot play then player is finally skipped                                        -For you, any wrong picks will inform that no substitute cards(same colour, number, or wild cards) are found; this will result in the game giving you a additional card.(So don't mess  around with the cards)                                 -If any wild card is chosen; after wild card is played, there is no colour at that moment; so game will allow players to choose colour to continue the game with.                                -All cards and their effects will be played; reverse, skip, draw_2, wild_draw_4, or wild card.       
+Choose the number of cards you want each player to start-off with?:
+a) 4 Cards(16 Cards in Game)
+b) 5 Cards(20 Cards in Game)
+c) 6 Cards(24 Cards in Game)
+Go ahead! You will be player 1, and your card stack is stack 1. Take the first turn; put any card down to start the game
